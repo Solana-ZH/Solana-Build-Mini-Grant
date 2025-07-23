@@ -25,7 +25,7 @@
 - Fork 目标开源库到 Solar GitHub，并在该 repo 上进行迭代开发  
 - 将贡献内容通过 PR 提交至 [Solana-Build-Mini-Grant](https://github.com/Solana-ZH/Solana-Build-Mini-Grant) 仓库，并附说明 
 
-** 适用范围：**
+**适用范围：**
 
 - 对 Solana 生态中 Public Good 类仓库的贡献，例如：
   - `anchor`、`codama`、`surfpool`、Solana 官方文档、`examples`、生态课程内容仓库等  
@@ -39,8 +39,7 @@
 - 同时填写 Solar 生态项目信息登记表：  
   👉 https://forms.gle/YY6mxQex27Jkw6uV7  
 
-
-** 适用范围：**
+**适用范围：**
 
 - **优先支持**参加过 Solana 全球黑客松的华语区项目  
 - 项目需对 Solana 生态具有实质性贡献和积极影响  
@@ -49,9 +48,9 @@
 
 **参与方式：**
 
--- 撰写并分享高质量中文技术文章  
--- 举办或作为Speaker参与 Solana 相关的线下技术分享活动  
--- 在Solar论坛或开发者群提供专业技术支持与问题解答
+- 撰写并分享高质量中文技术文章  
+- 举办或作为Speaker参与 Solana 相关的线下技术分享活动  
+- 在Solar论坛或开发者群提供专业技术支持与问题解答
 
 请将相关内容的链接和截图等证明材料，通过 PR 提交至 [Solana-Build-Mini-Grant](https://github.com/Solana-ZH/Solana-Build-Mini-Grant) 仓库，并附简要说明  
 
