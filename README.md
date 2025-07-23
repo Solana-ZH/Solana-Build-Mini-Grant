@@ -34,7 +34,7 @@
 
 **参与方式：**
 
-- 本季度连续建设至少 **3 个月**，并提交 PR 至 [Solana-Build-Mini-Grant](https://github.com/Solana-ZH/Solana-Build-Mini-Grant) 仓库  
+- 本统计季度连续建设至少 **3 个月**，并提交 PR 至 [Solana-Build-Mini-Grant](https://github.com/Solana-ZH/Solana-Build-Mini-Grant) 仓库  
 - 说明项目简介、本季度阶段性进展、社区影响，以及持续建设的 commit 记录  
 - 同时填写 Solar 生态项目信息登记表：  
   👉 https://forms.gle/YY6mxQex27Jkw6uV7  
