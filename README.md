@@ -1,4 +1,4 @@
-# 🌱 Solana Build Mini Bounty（华语区开发者激励计划）
+# 🌱 Solana Build Bounty（华语区开发者激励计划）
 
 面向华语区 Builder 的公开激励计划，旨在支持和推动 Solana 华语区 Builder 的持续建设与成长。
 
