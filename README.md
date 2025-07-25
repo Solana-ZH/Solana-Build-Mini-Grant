@@ -71,7 +71,7 @@
 - 按照 潜在价值、本季度阶段性进展、社区影响 评选前10名，每季度生成 Solar 潜力BUIDL Leaderboard 帮助宣传
  
 **资源支持：**
-- 获得 Solar build bounty支持（不作为）
+- 获得 Solar build bounty支持
 - 直推 Solaris 孵化器，获得 Solana 基金会资金支持
 - 有机会直推 Solana Labs 主持的 Solana Incubator，前往纽约参加为期 3个月训练营
 - 获得 Solana 全球黑客松 hacker house 参与资格，并有机会直推华语区 demo day 与 全球finalist
