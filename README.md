@@ -1,17 +1,17 @@
 # 🌱 Solana Build Mini Grant（华语区区开发者激励计划）
 
-面向华语区Builder的公开激励计划，旨在支持和推动 Solana 话语区 Builder 的持续建设与成长。
+面向华语区Builder的公开激励计划，旨在支持和推动 Solana 华语区 Builder 的持续建设与成长。
 
 ## 🎯 目标
 
 - 吸引华语区开发者参与 Solana 代码库建设
-- 鼓励华语区 Builder 坚持建设，帮助争取基金会资金支持
+- 鼓励华语区 Builder 长期建设，帮助争取基金会资金支持
 - 回馈社区产出高质量、具影响力的中文技术内容 
 - 鼓励更多生态项目投入资源，支持 Solar Builder 社区  
 
 ## ✨ 资金与周期
 
-- Solana Foundation将提供**每季度最多 8,000 USDC Grant Pool**
+- Solana Foundation将提供**每季度最多 4,000 USDC Grant Pool**
 - 采用 **Retroactive（回溯）激励机制**，按季度统计贡献，具体 Grant 数额视整体参与情况  
 - 鼓励为他人点个 star，将根据贡献价值与社区影响力审核并向社区公开
 - 该计划将**试运行 1 个季度**，视影响评估后决定是否延续 
