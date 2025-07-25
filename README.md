@@ -1,6 +1,6 @@
-# 🌱 Solana Build Mini Grant（华语区区开发者激励计划）
+# 🌱 Solana Build Mini Bounty（华语区开发者激励计划）
 
-面向华语区Builder的公开激励计划，旨在支持和推动 Solana 华语区 Builder 的持续建设与成长。
+面向华语区 Builder 的公开激励计划，旨在支持和推动 Solana 华语区 Builder 的持续建设与成长。
 
 ## 🎯 目标
 
@@ -11,8 +11,8 @@
 
 ## ✨ 资金与周期
 
-- Solana Foundation 试行期将提供**每季度最多 4,000 USDC Grant Pool**
-- 采用 **Retroactive（回溯）激励机制**，按季度统计贡献，具体 Grant 数额视整体参与情况  
+- Solana 基金会试行期将提供**每季度最多 4,000 USDC Bounty Pool**
+- 采用 **Retroactive（回溯）激励机制**，按季度统计贡献，具体 bounty 数额视整体参与情况  
 - 鼓励为他人点个 star，将根据贡献价值与社区影响力审核并向社区公开
 - 该计划将**试运行 1 个季度**，视影响评估后决定是否延续 
 
@@ -23,7 +23,7 @@
 **参与方式：**
 
 - 在 [Solar Github](https://github.com/Solana-ZH) 中新建 repo，或将目标开源库到 Solar GitHub，并在该 repo 上进行迭代开发  
-- 将贡献内容通过 PR 提交至 [Solana-Build-Mini-Grant](https://github.com/Solana-ZH/Solana-Build-Mini-Grant) 仓库，并附说明
+- 将贡献内容通过 PR 提交至 [Solana-Build-Bounty](https://github.com/Solana-ZH/Solana-Build-Mini-Grant) 仓库，并附说明
 - 同时填写 Solar Talent 人才库登记表： 
   👉 https://forms.gle/izZNyNYdZt27FurZ7
 
@@ -31,25 +31,6 @@
 
 - 对 Solana 生态中 Public Good 类仓库的贡献，例如：
   - `anchor`、`codama`、`surfpool`、Solana 官方文档、`examples`、生态课程内容仓库等  
-
-### 2️⃣ Keep BUIDL! 长期建设奖励
-
-**参与方式：**
-
-- 本统计季度连续建设至少 **3 个月**，并提交 PR 至 [Solana-Build-Mini-Grant](https://github.com/Solana-ZH/Solana-Build-Mini-Grant) 仓库  
-- 说明项目简介、本季度阶段性进展、社区影响，以及持续建设的 commit 记录  
-- 同时填写 Solar 生态项目信息登记表：  
-  👉 https://forms.gle/YY6mxQex27Jkw6uV7  
-
-**适用范围：**
-
-- **优先支持**参加过 Solana 全球黑客松的华语区项目
-- 优先鼓励新人参与项目建设
-- 项目需对 Solana 生态具有实质性贡献和积极影响  
-
-## 🥇 奖金评选与支持
-
-### 1️⃣ 生态开源库建设贡献奖励
 
 **奖金评选：**
 
@@ -64,27 +45,36 @@
   - 1 - 参与生态开源建设鼓励
 
 **资源支持：**
-- 获得 Solana 官方 mini-grant支持
+- 获得 Solar build bounty支持
 - 直推 Solana 生态核心/潜力项目工作机会
 - 有机会获得来自 Solana 基金会的推荐信
 - 优先推荐 [Solana 基金会 RFP Grant](https://solana.org/grants-funding)
 - Solar Talent 人才库优先推荐
 - Solar 与 Solana Developer 官方账号宣传 帮你打造个人影响力
 
-
 ### 2️⃣ Keep BUIDL! 长期建设奖励
 
+**参与方式：**
 
-**先决条件** 
-- 本统计季度连续建设 **3 个月** （期间项目可切换赛道/参与不同项目）
-- 项目需对 Solana 生态具有实质性贡献和积极影响
+- 本统计季度连续建设至少 **3 个月**，并提交 PR 至 [Solana-Build-Bounty](https://github.com/Solana-ZH/Solana-Build-Mini-Grant) 仓库  
+- 说明项目简介、本季度阶段性进展、社区影响，以及持续建设的 commit 记录  
+- 同时填写 Solar 生态项目信息登记表：  
+  👉 https://forms.gle/YY6mxQex27Jkw6uV7  
+
+**适用范围：**
+
+- **优先支持**参加过 Solana 全球黑客松的华语区项目
+- 优先鼓励新人参与项目建设
+- 项目需对 Solana 生态具有实质性贡献和积极影响  
 
 **奖金评选：**
 - 按照 潜在价值、本季度阶段性进展、社区影响 评选前10名，每季度生成 Solar 潜力BUIDL Leaderboard 帮助宣传
  
 **资源支持：**
-- 获得 Solana 官方 mini-grant支持
+- 获得 Solar build bounty支持（不作为）
 - 直推 Solaris 孵化器，获得 Solana 基金会资金支持
 - 有机会直推 Solana Labs 主持的 Solana Incubator，前往纽约参加为期 3个月训练营
 - 获得 Solana 全球黑客松 hacker house 参与资格，并有机会直推华语区 demo day 与 全球finalist
 - Solar 官方账号宣传 帮你打造项目影响力
+
+注：以上资源支持由 Solar 社区协助推荐，不代表 Solana 基金会的官方背书或承诺
