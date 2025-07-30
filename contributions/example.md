@@ -6,3 +6,6 @@
 - **贡献人联系方式**:
   - GitHub: [@HealthyBuilder](https://github.com/HealthyBuilder)
   - Telegram: @Mikkke_crypto
+- **推荐社区**:
+  - OpenBuild
+

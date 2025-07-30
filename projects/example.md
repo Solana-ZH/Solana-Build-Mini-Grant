@@ -1,0 +1,21 @@
+# 🌟 项目说明 - Solana Pay
+
+- **项目名称**: Solana Pay
+- **项目概述**:
+  - Solana 2025 Breakout 黑客松 参赛项目
+  - Solana Pay, an open, free-to-use payments framework built on Solana, is available to millions of businesses as an approved app integration on Shopify. Solana Pay is built for instant transactions and near-zero gas fees.
+- **联系方式**:
+  - GitHub: [@HealthyBuilder](https://github.com/HealthyBuilder)
+  - Telegram: @HealthyBuilder
+- **社区影响**:
+  - 2000 DAU
+  - 能支持应用通过 Solana区块链网络实现支付快速结算
+- **本季度阶段性进展**:
+  - 完成 v1 版本 MVP
+  - DAU 达到 2000
+- **对生态价值**:
+  - Get instant settlement with near-zero fees for all Solana dApps.
+- **持续建设的 commit 记录**:
+  - 提交记录见：https://github.com/solana-foundation/solana-pay/commits/master/
+- **推荐社区**: 
+  - 706 community
