@@ -1,0 +1,8 @@
+- **贡献仓库**: https://github.com/solana-foundation/solana-com
+- **贡献概述**:
+  - 新增 Solana Cookbook Python examples
+- **贡献 PR 链接**:
+  - https://github.com/solana-foundation/solana-com/pull/622
+- **贡献人联系方式**:
+  - GitHub: [@HealthyBuilder](https://github.com/HealthyBuilder)
+  - Telegram: @Mikkke_crypto
