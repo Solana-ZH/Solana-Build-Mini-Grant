@@ -22,7 +22,6 @@
 
 **参与方式：**
 
-- 在 [Solar Github](https://github.com/Solana-ZH) 中新建 repo，或将目标开源库到 Solar GitHub，并在该 repo 上进行迭代开发  
 - 将贡献内容通过 PR 提交至 [Solana-Build-Bounty](https://github.com/Solana-ZH/Solana-Build-Mini-Grant) 仓库，并附说明
 - 同时填写 Solar Talent 人才库登记表： 
   👉 https://forms.gle/izZNyNYdZt27FurZ7
