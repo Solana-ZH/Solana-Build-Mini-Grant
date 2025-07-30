@@ -22,7 +22,10 @@
 
 **参与方式：**
 
-- 将贡献内容通过 PR 提交至 [Solana-Build-Bounty](https://github.com/Solana-ZH/Solana-Build-Mini-Grant) 仓库，并附说明
+- 在 `contributions` 文件夹下创建一个 `README.md` 文件，并附说明:
+  - 贡献 repo 链接
+  - 贡献概述
+  - 贡献人联系方式
 - 同时填写 Solar Talent 人才库登记表： 
   👉 https://forms.gle/izZNyNYdZt27FurZ7
 
@@ -55,8 +58,15 @@
 
 **参与方式：**
 
-- 本统计季度连续建设至少 **3 个月**，并提交 PR 至 [Solana-Build-Bounty](https://github.com/Solana-ZH/Solana-Build-Mini-Grant) 仓库  
-- 说明项目简介、本季度阶段性进展、社区影响，以及持续建设的 commit 记录  
+- 本统计季度连续建设至少 **3 个月**
+- 在 `projects` 文件夹下创建一个 `README.md` 文件，并附说明:
+  - 项目名
+  - 项目概述
+  - 联系方式
+  - 社区影响
+  - 本季度阶段性进展
+  - 对生态价值
+  - 持续建设的 commit 记录  
 - 同时填写 Solar 生态项目信息登记表：  
   👉 https://forms.gle/YY6mxQex27Jkw6uV7  
 
