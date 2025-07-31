@@ -1,0 +1,13 @@
+- **贡献仓库**: https://github.com/kevinheavey/anchorpy
+- **贡献概述**:
+  - anchorpy 支持最新的anchor idl
+  - anchor idl v00到最新的格式转换
+- **贡献 PR 链接**:
+  - https://github.com/kevinheavey/anchorpy/pull/163
+  - https://github.com/kevinheavey/anchorpy-idl/pull/2
+
+- **贡献人联系方式**:
+  - GitHub: [@daog1](https://github.com/daog1)
+  - Telegram: @twogolee
+- **推荐社区**:
+  - OpenBuild

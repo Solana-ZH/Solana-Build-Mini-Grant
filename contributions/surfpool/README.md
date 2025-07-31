@@ -1,0 +1,17 @@
+- **贡献仓库**: https://github.com/txtx/surfpool
+- **贡献概述**:
+  - fix use noSigVerify in simulateTransaction endpoint
+  - fix(svm): allow processing instructions with raw instruction data
+  - fix simulate_transaction alts
+  - add connect set clock,fix slot_index
+- **贡献 PR 链接**:
+  - https://github.com/txtx/surfpool/pull/152
+  - https://github.com/txtx/txtx/pull/295
+  - https://github.com/txtx/surfpool/pull/138
+  - https://github.com/txtx/surfpool/pull/101
+
+- **贡献人联系方式**:
+  - GitHub: [@daog1](https://github.com/daog1)
+  - Telegram: @twogolee
+- **推荐社区**:
+  - OpenBuild
