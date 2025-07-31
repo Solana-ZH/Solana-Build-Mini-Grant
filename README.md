@@ -87,3 +87,5 @@
 - Solar 官方账号宣传 帮你打造项目影响力
 
 注：以上资源支持由 Solar 社区协助推荐，不代表 Solana 基金会的官方背书或承诺，最终解释权归主办方
+
+如有疑问可联系Telegram: Mikkke_crypto
